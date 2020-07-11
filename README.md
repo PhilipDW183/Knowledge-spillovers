@@ -36,4 +36,7 @@ All files have been commented so that the process can be followed.
 Data was extracted from the following sources:</br>
 OECD REGPAT database</br>
 OECD REGPAT citations database </br>
+GADM</br>
+US census</br>
+Eurostat</br>
 ....
