@@ -34,9 +34,8 @@ This workbook uses the data from Final data exploration, merges the results with
 All files have been commented so that the process can be followed. 
 
 Data was extracted from the following sources:</br>
-OECD REGPAT database</br>
-OECD REGPAT citations database </br>
-GADM</br>
-US census</br>
-Eurostat</br>
-....
+<a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm">OECD REGPAT database</a></br>
+<a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm">OECD REGPAT citations database</a> </br>
+<a href="https://gadm.org/">GADM</a></br>
+<a href="https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html">US census</a></br>
+<a href="https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts">Eurostat</a></br>
