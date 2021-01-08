@@ -1,4 +1,5 @@
-# Dissertation
+# Knowledge Spillovers
+
 This github respository contains code that uses patent data to explore the effects of knowledge spillovers over distance. The following descitpion details the way in which the workbooks have been used and in which order, to achieve this aim.
 
 1)<b> Getting_citation.ipynb.</b></br>
